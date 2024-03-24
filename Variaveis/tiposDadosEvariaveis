@@ -1,0 +1,15 @@
+//pokemon
+
+let nomePokemon = "Pikachu" //string - tipo primitivo
+let pontosDeVidaPokemon = 45 //number - tipo primitivo
+let nivelPokemon = 20 //string - tipo primitivo
+let pokemonSexo = "M" //string - tipo primitivo
+let selecionavel = true //boolean - variaveis lógicas (ligado ou desligado)
+
+
+
+
+
+
+
+

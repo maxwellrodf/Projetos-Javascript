@@ -1,5 +1,7 @@
 console.log("Digite o nome do seu jogador:")
 
-let nickname = "Joao"
+let nickname = "Maxwell"
 
 console.log("Bem vindo " + nickname)
+
+
